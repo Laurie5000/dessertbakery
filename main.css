@@ -1,0 +1,102 @@
+
+
+
+body {
+    
+    background-color: #e2c290;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    border: #6b2d5c solid 8px;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Zeyada', cursive;
+    font-size: 90px;
+}
+
+h2 {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 50px;
+}
+
+.nav ul {
+    display: inline-block;
+    border-radius: 025px;
+    list-style-type: none;
+    background-color: #6b2d5c;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+.nav li {
+    display: inline-block;
+    color:  #fa198b;
+    text-align: center;
+    margin: 0px;
+    padding: 15px 9px;
+    text-decoration: none;
+    background-color: #6b2d5c;
+    font-family: 'Open Sans', sans-serif;
+
+
+}    
+a:link {
+    color: green;
+}
+
+li:visited {
+    color: #f75c03;
+}
+
+
+li:hover {
+    color: #2274a5;
+}
+
+
+li:active {
+    color: yellow;
+}
+
+
+a li:hover {
+    background-color: #flc40f;
+}
+
+body
+.ul {
+   list-style-type: none;
+   
+}
+
+img {
+    border: #6b2d5c solid 8px;
+    border-radius:20px;
+}
+
+.footer ul     {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+.footer li {
+    color:  #fa198b;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #6b2d5c;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+
+
+
